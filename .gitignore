@@ -1,0 +1,22 @@
+# Python virtual environment
+venv/
+.env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+venv/
+.env/
+__pycache__/
+*.pyc
+.vscode/
+ 
+ 
+ 
+chroma_db/
