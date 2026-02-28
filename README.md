@@ -1,6 +1,6 @@
 Text Similarity Search – RAG Framework
 Overview
-
+![Demo Screenshot](demo/photo.png)
 This project is a practical implementation of a Retrieval-Augmented Generation (RAG) framework designed to perform high-precision semantic similarity search on structured and unstructured textual data.
 
 The original version of this system was developed as part of a GenAI proof-of-concept initiative focused on improving internal workflow efficiency. The primary objective was to convert user stories into structured, reusable test cases while leveraging historical data to reduce duplication of effort and improve decision-making speed.
